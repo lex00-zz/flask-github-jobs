@@ -1,0 +1,13 @@
+build
+dist
+*egg*
+*.pyc
+.vagrant
+*.retry
+*.log
+*.lock
+*.pem
+*.backup
+*.info
+.cache
+*cache*
